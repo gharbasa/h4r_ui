@@ -1,0 +1,1 @@
+angular.module('h4r.ui.base', ['h4r.ui.base.services', 'h4r.ui.base.directives','h4r.ui.base.factories']);
